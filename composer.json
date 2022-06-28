@@ -1,5 +1,5 @@
 {
-    "name": "mews/pos",
+    "name": "muratdemirel/pos",
     "description": "Türk bankaları için sanal pos kütüphanesi",
 	"keywords": ["pos", "sanal pos", "est", "est pos", "akbank", "posnet", "payfor", "vakifbankpos", "InterVPos", "DenizBank Sanal Pos", "kuveytpos"],
 	"homepage": "https://github.com/mewebstudio/pos",
